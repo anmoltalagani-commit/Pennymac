@@ -82,3 +82,4 @@ Lambda Errors > 0
 Lambda Throttles > 0
 Invocations == 0 (to detect schedule issues)
 
+<img width="1400" height="900" alt="aws_snapshot_cleaner_arch" src="https://github.com/user-attachments/assets/53ac9ada-ed95-4ba9-beb3-167f537565d0" />
